@@ -1,0 +1,27 @@
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.starship-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.starship-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  text-decoration: none;
+  color: #000;
+  background-color: #f9f9f9;
+  transition: 0.2s;
+}
+
+.starship-card:hover {
+  background-color: #dce6f7;
+}
