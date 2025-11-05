@@ -1,3 +1,4 @@
+Projenin Canlı Linki ---> https://starwarsaylin.netlify.app/
 # 🌌 Star Wars Starships Explorer
 
 Bu proje, [Star Wars API (SWAPI)](https://swapi.dev/) kullanılarak hazırlanmış bir **React + Vite** uygulamasıdır.  
